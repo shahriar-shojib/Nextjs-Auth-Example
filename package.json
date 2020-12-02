@@ -1,0 +1,20 @@
+{
+  "name": "auth-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/next-auth": "^3.1.18",
+    "next": "10.0.3",
+    "next-auth": "^3.1.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
